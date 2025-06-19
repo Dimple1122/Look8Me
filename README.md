@@ -38,11 +38,11 @@ Look8Me is a beautifully crafted Flutter application that allows users to regist
 
 2. Important:
  
-  Do NOT commit firebase_options.dart and google-services.json to Git.
+Do NOT commit firebase_options.dart and google-services.json to Git.
   
-  Add to .gitignore:
-    - android/app/google-services.json
-    - lib/firebase_options.dart
+Add to .gitignore:
+  - android/app/google-services.json
+  - lib/firebase_options.dart
 
 3. Run the App:
   - flutter run  
