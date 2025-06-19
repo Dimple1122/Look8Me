@@ -1,51 +1,34 @@
 📚 Look8Me
+
 Look8Me is a beautifully crafted Flutter application that allows users to register, explore, and read a diverse collection of novels across multiple genres. Users can search for novels, add their favorites to a personalized My List, and enjoy seamless reading right from their device.
 
+
 ✨ Features:-
+
 🔐 Firebase Authentication for secure user login/register
+
 📚 Explore novels by genre
+
 🔍 Search novels easily by keywords
+
 ❤️ Add/remove novels to/from My List
+
 ☁️ Backend powered by Firebase Realtime Database & Firebase Storage
+
 📄 Integrated PDF viewer for reading novels
-
-
-📁 Folder Structure
-lib/
-├── common/
-│   ├── model/           # Data models
-│   ├── services/        # Firebase and app services
-│   └── utils/           # Utilities and helpers
-├── routes/              # Navigation routes
-├── screens/             # App UI screens
-└── main.dart
-
-
-📦 Packages Used:-
-- firebase_core
-- firebase_auth
-- firebase_database
-- firebase_storage
-- pdfx
-- flutter_bloc
-- get_it
-- intl
-- connectivity_plus
-- cached_network_image
-- share_plus
 
 
 🚀 Getting Started
 
 🔧 Prerequisites
-Flutter SDK (>= 3.7.0)
-Firebase Project setup
-Android Studio / VS Code
+   - Flutter SDK (>= 3.7.0)
+   - Firebase Project setup
+   - Android Studio / VS Code
 
 🛠️ Setup Instructions
-- git clone https://github.com/Dimple1122/Look8Me.git
-- cd look8me
-- flutter pub get 
+   - git clone https://github.com/Dimple1122/Look8Me.git
+   - cd look8me
+   - flutter pub get 
 
 1. Firebase Setup:
    - Create a Firebase project. 
@@ -54,12 +37,14 @@ Android Studio / VS Code
    - Generate firebase_options.dart using FlutterFire CLI. 
 
 2. Important:
+
    Do NOT commit firebase_options.dart and google-services.json to Git.
+
    Add to .gitignore:
    - android/app/google-services.json
    - lib/firebase_options.dart
 
-3. Run the App:
+4. Run the App:
    - flutter run
 
 
