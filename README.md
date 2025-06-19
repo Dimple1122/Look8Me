@@ -1,9 +1,9 @@
-📚 Look8Me - Flutter Book Reader App
+📚 Look8Me
 Look8Me is a beautifully crafted Flutter application that allows users to register, explore, and read a diverse collection of novels across multiple genres. Users can search for novels, add their favorites to a personalized My List, and enjoy seamless reading right from their device.
 
 ✨ Features:-
 🔐 Firebase Authentication for secure user login/register
-📚 Explore books by genre
+📚 Explore novels by genre
 🔍 Search novels easily by keywords
 ❤️ Add/remove novels to/from My List
 ☁️ Backend powered by Firebase Realtime Database & Firebase Storage
@@ -43,7 +43,7 @@ Firebase Project setup
 Android Studio / VS Code
 
 🛠️ Setup Instructions
-- git clone https://github.com/<your-username>/look8me.git
+- git clone https://github.com/Dimple1122/Look8Me.git
 - cd look8me
 - flutter pub get 
 
@@ -64,24 +64,18 @@ Android Studio / VS Code
 
 
 📸 Screenshots
-![WhatsApp Image 2025-06-17 at 21 40 58_0a262fd0](https://github.com/user-attachments/assets/57902d3c-0068-450e-8e23-3f615327d0dc)
-![WhatsApp Image 2025-06-17 at 22 38 16_b2ffb53f](https://github.com/user-attachments/assets/a4b366ec-ee6f-4636-8b0c-f0df9ed79de5)
-![WhatsApp Image 2025-06-17 at 22 38 15_77d5e980](https://github.com/user-attachments/assets/a195ab67-b3be-4aae-98c0-3ca3c1ceb841)
-![WhatsApp Image 2025-06-17 at 22 38 14_60a2c8b1](https://github.com/user-attachments/assets/89d379f8-4c1f-4146-a086-1cce878b761d)
-![WhatsApp Image 2025-06-17 at 21 40 57_5ebfeeac](https://github.com/user-attachments/assets/b405dc36-45ee-4185-9217-a259fe9c01cd)
-![WhatsApp Image 2025-06-17 at 21 40 57_895cb655](https://github.com/user-attachments/assets/a578c43b-1943-4d15-af2f-d00be843afe8)
-![WhatsApp Image 2025-06-17 at 21 40 56_f8625502](https://github.com/user-attachments/assets/22081628-2443-4426-a246-4cd4750c19c2)
-![WhatsApp Image 2025-06-17 at 21 40 56_8589fa43](https://github.com/user-attachments/assets/1db2e151-35ad-4bf3-aca6-621bf00259e2)
+
+![Screenshot1](https://github.com/user-attachments/assets/660449eb-492e-4ebb-a20b-4a0aa100291b)
+![Screenshot4](https://github.com/user-attachments/assets/874a218b-c728-4238-90f8-618ecb51a588)
+![Screenshot3](https://github.com/user-attachments/assets/5036169a-799f-4a6f-9184-0910b6bb21d6)
+![Screenshot2](https://github.com/user-attachments/assets/011a784f-848e-4483-b37c-2caedbd20689)
+![Screenshot5](https://github.com/user-attachments/assets/2e624616-52c4-463f-b500-ca4cff662061)
+![Screenshot6](https://github.com/user-attachments/assets/235d9595-aab1-49b7-90f4-3b8670b7c0e8)
+![Screenshot7](https://github.com/user-attachments/assets/91669967-0619-4545-9051-03a8e9287991)
+![Screenshot8](https://github.com/user-attachments/assets/f16082c3-f693-4ada-8b37-bc7d88e9582c)
 
 
 🚧 To Do / Future Enhancements
-Offline reading support
-Book reviews and rating system
-Notifications for new books
-
-🤝 Contribution
-Contributions, issues, and feature requests are welcome!
-Feel free to fork the repo and submit a PR.
-
-📄 License
-This project is open-source and available under the MIT License.
+   - Offline reading support
+   - Book reviews and rating system
+   - Notifications for new novels
